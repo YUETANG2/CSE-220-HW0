@@ -1,7 +1,7 @@
 /*-------------------------
-Your name   = 
-Your SBU ID =
-Your NetID  =   
+Your name   = Mandy Tang
+Your SBU ID = awdad
+Your NetID  =   awdad
 -----------------------------*/
 #include <stdio.h>
 
